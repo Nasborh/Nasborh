@@ -13,5 +13,6 @@ Desarrollador enfocado en arquitectura de software, backend y desarrollo móvil.
 ---
 
 ### 📊 Estadísticas de GitHub
-![Estadísticas de Nasborh](https://github-readme-stats.vercel.app/api?username=Nasborh&show_icons=true&theme=dark)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasborh&layout=compact&theme=dark)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Nasborh&show_icons=true&theme=tokyonight)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasborh&layout=compact&theme=tokyonight)

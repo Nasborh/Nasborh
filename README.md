@@ -1,4 +1,4 @@
-# ¡Hola! Soy Nasborh 👋
+# ¡Hola! Soy Lindimar Escobar 👋
 
 Desarrollador enfocado en arquitectura de software, backend y desarrollo móvil.
 
